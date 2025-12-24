@@ -77,15 +77,9 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Lxde 探索筆記](https://samwhelp.github.io/note-about-lxde/) | [GitHub](https://github.com/samwhelp/note-about-lxde) |
-| [Pardus Lxde 探索筆記](https://samwhelp.github.io/note-about-pardus-lxde/) | [GitHub](https://github.com/samwhelp/note-about-pardus-lxde) |
 | [Debian Lxde 探索筆記](https://samwhelp.github.io/note-about-debian-lxde/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxde) |
-| [MxLinux Lxde 探索筆記](https://samwhelp.github.io/note-about-mxlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-lxde) |
-| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
-| [LinuxMint Lxde 探索筆記](https://samwhelp.github.io/note-about-linuxmint-lxde/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-lxde) |
 | [Fedora Lxde 探索筆記](https://samwhelp.github.io/note-about-fedora-lxde/) | [GitHub](https://github.com/samwhelp/note-about-fedora-lxde) |
 | [Archlinux Lxde 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxde) |
-| [Manjaro Lxde 探索筆記](https://samwhelp.github.io/note-about-manjaro-lxde/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-lxde) |
-| [Solus Lxde 探索筆記](https://samwhelp.github.io/note-about-solus-lxde/) | [GitHub](https://github.com/samwhelp/note-about-solus-lxde) |
 
 
 
